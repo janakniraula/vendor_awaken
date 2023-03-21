@@ -162,6 +162,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     AwakenBlackTheme \
     AwakenThemesStub \
+    NoCombinedIconsOverlay \
     ThemePicker
 
 # Charger
